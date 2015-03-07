@@ -1,3 +1,8 @@
+This link is to install the crazyflie on multiple platforms
+
+https://github.com/bitcraze/crazyflie-clients-python/releases
+
+
 # Crazyflie PC client
 
 The Crazyflie PC client enables flashing and controlling the Crazyflie.
